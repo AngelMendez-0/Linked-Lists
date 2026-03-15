@@ -1,8 +1,8 @@
 # Java Data Structures and Algorithms
 
 ## Description
-This repository contains implementations of fundamental data structures and algorithms developed in Java.
-These projects focus on understanding how data structures work internally and how algorithms can be implemented without relying on built-in libraries.
+This repository contains implementations of  data structures and algorithms developed in Java.
+These projects focus on understanding how data structures work and how algorithms can be implemented without relying on built-in libraries.
 
 ## File Descriptions
 
